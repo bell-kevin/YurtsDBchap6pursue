@@ -23,6 +23,8 @@ https://app.dbdesigner.net/designer/schema/guest_template
 
 Submission: Submit screenshots that show your database and table layout in a .zip file
 
+![o](https://github.com/bell-kevin/YurtsDBchap6pursue/blob/main/diagram2.PNG)
+
 == We're Using GitHub Under Protest ==
 
 This project is currently hosted on GitHub.  This is not ideal; GitHub is a
