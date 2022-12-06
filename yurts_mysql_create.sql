@@ -30,7 +30,3 @@ CREATE TABLE `room` (
 ALTER TABLE `reservations` ADD CONSTRAINT `reservations_fk0` FOREIGN KEY (`customer_id`) REFERENCES `customers`(`customer_id`);
 
 ALTER TABLE `reservations` ADD CONSTRAINT `reservations_fk1` FOREIGN KEY (`room_number`) REFERENCES `room`(`room_number`);
-
-
-
-
