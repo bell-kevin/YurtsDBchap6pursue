@@ -13,7 +13,7 @@ CREATE TABLE `customers` (
 	`first_name` VARCHAR(255) NOT NULL,
 	`last_name` VARCHAR(255),
 	`email` VARCHAR(255) NOT NULL,
-	`phone` INT NOT NULL,
+	`phone` VARCHAR(255) NOT NULL,
 	PRIMARY KEY (`customer_id`)
 );
 
