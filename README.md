@@ -19,6 +19,8 @@ Create the tables in PHPMyAdmin, and take a screenshot (hint: use the Designer t
 
 ![p](https://github.com/bell-kevin/YurtsDBchap6pursue/blob/main/yurts.PNG)
 
+https://app.dbdesigner.net/designer/schema/guest_template
+
 Submission: Submit screenshots that show your database and table layout in a .zip file
 
 == We're Using GitHub Under Protest ==
