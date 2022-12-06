@@ -46,3 +46,19 @@ VALUES(
     '20221204 10:34:09 AM',
     3
 );
+INSERT INTO reservations(
+    reservation_id,
+    customer_id,
+    check_in_date,
+    check_out_date,
+    reservation_date,
+    room_number
+)
+VALUES(
+    4,
+    103,
+    '20221208 10:34:09 AM',
+    '20221222 10:34:09 AM',
+    '20221201 10:34:09 AM',
+    1
+);
