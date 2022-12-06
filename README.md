@@ -25,6 +25,12 @@ Submission: Submit screenshots that show your database and table layout in a .zi
 
 ![o](https://github.com/bell-kevin/YurtsDBchap6pursue/blob/main/diagram2.PNG)
 
+![a](https://github.com/bell-kevin/YurtsDBchap6pursue/blob/main/reservations.PNG)
+
+![b](https://github.com/bell-kevin/YurtsDBchap6pursue/blob/main/rooms.PNG)
+
+![c](https://github.com/bell-kevin/YurtsDBchap6pursue/blob/main/customers.PNG)
+
 == We're Using GitHub Under Protest ==
 
 This project is currently hosted on GitHub.  This is not ideal; GitHub is a
