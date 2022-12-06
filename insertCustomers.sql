@@ -23,12 +23,6 @@ INSERT INTO customers(customer_id, first_name, last_name, email, phone) VALUES (
 INSERT INTO customers(customer_id, first_name, last_name, email, phone) VALUES (122,'Payam','Kaufling','payam.kaufling@sqltutorial.org','650.123.3234');
 INSERT INTO customers(customer_id, first_name, last_name, email, phone) VALUES (123,'Shanta','Vollman','shanta.vollman@sqltutorial.org','650.123.4234');
 INSERT INTO customers(customer_id, first_name, last_name, email, phone) VALUES (126,'Irene','Mikkilineni','irene.mikkilineni@sqltutorial.org','650.124.1224');
-INSERT INTO customers(customer_id, first_name, last_name, email, phone) VALUES (145,'John','Russell','john.russell@sqltutorial.org',NULL);
-INSERT INTO customers(customer_id, first_name, last_name, email, phone) VALUES (146,'Karen','Partners','karen.partners@sqltutorial.org',NULL);
-INSERT INTO customers(customer_id, first_name, last_name, email, phone) VALUES (176,'Jonathon','Taylor','jonathon.taylor@sqltutorial.org',NULL);
-INSERT INTO customers(customer_id, first_name, last_name, email, phone) VALUES (177,'Jack','Livingston','jack.livingston@sqltutorial.org',NULL);
-INSERT INTO customers(customer_id, first_name, last_name, email, phone) VALUES (178,'Kimberely','Grant','kimberely.grant@sqltutorial.org',NULL);
-INSERT INTO customers(customer_id, first_name, last_name, email, phone) VALUES (179,'Charles','Johnson','charles.johnson@sqltutorial.org',NULL);
 INSERT INTO customers(customer_id, first_name, last_name, email, phone) VALUES (192,'Sarah','Bell','sarah.bell@sqltutorial.org','650.501.1876');
 INSERT INTO customers(customer_id, first_name, last_name, email, phone) VALUES (193,'Britney','Everett','britney.everett@sqltutorial.org','650.501.2876');
 INSERT INTO customers(customer_id, first_name, last_name, email, phone) VALUES (200,'Jennifer','Whalen','jennifer.whalen@sqltutorial.org','515.123.4444');
